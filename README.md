@@ -1,5 +1,6 @@
 Web Scraping Task
-Below is the Python script for completing all the steps described in your Web Scraping Task.
+
+A Python script for completing all the steps described in your Web Scraping Task.
 It uses BeautifulSoup for HTML parsing and the requests library to fetch the webpage content.
 Output Files:
 
